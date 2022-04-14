@@ -1,0 +1,4 @@
+25-Dec-21 00:17:56 - "Email" send request, with code: "generatet Code"
+25-Dec-21 00:17:59 - Email deleted!
+25-Dec-21 00:23:08 - "Email" send request but not allowed
+25-Dec-21 00:23:08 - Email deleted!
