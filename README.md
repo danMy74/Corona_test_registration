@@ -1,5 +1,5 @@
 # Corona_test_registration
-This is a little script to regestrate you at the corona test center
+This is a little script to register you at the corona test center
 
 This script will no longer be updated! It may not work anymore!
 
